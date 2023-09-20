@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 import Link from "next/link";
 const LandingPage = () => {
     return (
-      <div>landing page (unprote  cted)
+      <div>landing page (unprotected)
         <div>
           <Link href="/sign-in">
             <Button>
